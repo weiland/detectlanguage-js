@@ -10,6 +10,5 @@ just a quick WIP hack
 ## Installation
 
 clone & npm install
-```php
-git clone ssh://git@github.com:weiland/detectlanguage-js
-```
+
+$ git clone https://github.com/weiland/detectlanguage-js
